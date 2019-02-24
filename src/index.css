@@ -1,0 +1,54 @@
+body {
+  background-color: #221f1f;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.li {
+  float: left;
+}
+
+.img {
+  padding: 10px;
+}
+
+.clear-float {
+  clear: left;
+}
+
+#list-span {
+  display: none;
+}
+
+.hidden {
+  opacity: 0;
+  opacity: 0;
+}
+.list > li:hover div {
+  opacity: 1;
+  transition: opacity 1.25s;
+}
+
+.titleColor {
+  color: white;
+}
+
+.padding {
+  padding: 10px;
+}
+
+.bottomList {
+  float: left;
+  padding: 15px;
+}
+
+#logoColor {
+  fill: #e50914;
+  line-height: normal;
+  height: 50px;
+}
