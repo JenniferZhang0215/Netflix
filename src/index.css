@@ -27,7 +27,6 @@ body {
 
 .hidden {
   opacity: 0;
-  opacity: 0;
 }
 .list > li:hover div {
   opacity: 1;
